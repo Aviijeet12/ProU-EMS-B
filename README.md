@@ -1,5 +1,9 @@
 # Task Management API
 
+## Backend Link 
+- https://pro2-5ei8.onrender.com
+## Bonus Tasks 
+- Added authentication with JWT token system
 ## Overview
 This repository contains a backend RESTful API for managing employees and tasks for an internal company dashboard. The API is designed to be consumed by frontend applications and supports CRUD operations, relationships, filtering, and authentication (bonus).
 
